@@ -1,0 +1,7 @@
+D:\C# Project\TP_MOD_4\TP_MOD_4\bin\Debug\TP_MOD_4.exe.config
+D:\C# Project\TP_MOD_4\TP_MOD_4\bin\Debug\TP_MOD_4.exe
+D:\C# Project\TP_MOD_4\TP_MOD_4\bin\Debug\TP_MOD_4.pdb
+D:\C# Project\TP_MOD_4\TP_MOD_4\obj\Debug\TP_MOD_4.csproj.AssemblyReference.cache
+D:\C# Project\TP_MOD_4\TP_MOD_4\obj\Debug\TP_MOD_4.csproj.CoreCompileInputs.cache
+D:\C# Project\TP_MOD_4\TP_MOD_4\obj\Debug\TP_MOD_4.exe
+D:\C# Project\TP_MOD_4\TP_MOD_4\obj\Debug\TP_MOD_4.pdb
